@@ -2,8 +2,8 @@
 This repository contains the results of the NZ Stats Project MAA2021-21 conducted for MSD and NZTA through Qrious LTD. The project investigates driver's licensing outcomes for different sub-populations to understand which groups MSD policy should consider. The data included is the output from the NZ Stats IDI and is intended for survival analysis. This code can be used to view and interact with the outputted data. All data has been appropriately anonymized and suppressed where necessary and checked by NZ Stats before being released.
 
 ## Authors
-- Joseph Hendry
 - Daniel Woo
+- Joseph Hendry
 - Vinay Benny
 
 ## Prerequisites
